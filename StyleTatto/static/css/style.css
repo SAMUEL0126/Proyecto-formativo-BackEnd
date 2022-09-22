@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@1,600&family=PT+Serif:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,500&display=swap');
+
+
+body{
+    font-family:'IBM Plex Serif'; ;
+ 
+}
+
+#content-related{visibility: hidden;}
+.accent-primary a:not(.dropdown-item):not(.btn-app):not(.nav-link):not(.brand-link):not(.page-link):not(.btn){color: gray;}
+.card-primary.card-outline {border-top: 3px solid #161616;}
+
+
+.login-logo h1 img{border-radius: 50%; width: 100px;}
+.login-box-msg{color: #000;}
+
+.main-sidebar{background-color: #000;}
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.active {background-color: #161616;color: #fff;}
+.d-block{color: #ffff; text-transform:uppercase; }
